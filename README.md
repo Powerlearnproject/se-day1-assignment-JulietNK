@@ -14,9 +14,9 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-mastering complexity
-Mastering process
-Mastering machine
+i)mastering complexity
+ii)Mastering process
+iii)Mastering machine
 
 
 
